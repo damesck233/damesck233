@@ -1,16 +1,27 @@
-## Hi there 👋
+👋 Hello! I'm **damesck**, a student passionate about **Network Engineering**. I
 
-<!--
-**damesck233/damesck233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧑‍💻 **Personal Information**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| **Attribute**        | **Details**                                            |
+| -------------------- | ------------------------------------------------------ |
+| **Personal Website** | [damesck.net](https://damesck.net)                     |
+| **Major**            | Network Engineering                                    |
+| **Tech Interests**   | Python, Cloud Computing, DevOps, Front-End Development |
+| **Current Focus**    | Cloud Computing & Automation                           |
+| **Contact**          | damesck@outlook.com                                    |
+
+---
+
+### 📊 **GitHub Stats**
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=damesck233&locale=en&line_height=33&show_icons=true&hide=&theme=radical&rank_icon=default" />
+</div>
+
+
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damesck233&locale=en&line_height=33&theme=dracula&langs_count=5&layout=compact" />
+</div>
+
