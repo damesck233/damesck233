@@ -20,8 +20,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=damesck233&locale=en&line_height=33&show_icons=true&hide=&theme=radical&rank_icon=default" />
 </div>
 
-
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damesck233&locale=en&line_height=33&theme=dracula&langs_count=5&layout=compact" />
-</div>
+<img   align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damesck233&locale=cn&line_height=33&theme=dracula&langs_count=5&layout=compact"/>
 
