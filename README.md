@@ -1,4 +1,4 @@
-👋 Hello! I'm **damesck**, a student passionate about **Network Engineering**. 
+👋 Hello! I'm **damesck**, a student passionate about **Network Engineering**. I
 
 <a href="https://wakatime.com/@018e0793-354b-42d4-8c6d-8dba8d71ab4f"><img align="center" src="https://wakatime.com/badge/user/018e0793-354b-42d4-8c6d-8dba8d71ab4f.svg" ></a>
 
@@ -24,8 +24,5 @@
 
 ### 📊 **GitHub Stats**
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=damesck233&locale=en&line_height=33&show_icons=true&hide=&theme=radical&rank_icon=default" />
-  <img   align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damesck233&locale=en&line_height=33&theme=dracula&langs_count=5&layout=compact"/>
-</div>
+<img   align="left" src="https://github-readme-stats.vercel.app/api?username=damesck233&locale=en&line_height=33&show_icons=true&hide=&theme=&rank_icon=percentile"/>
 
